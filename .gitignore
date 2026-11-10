@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+
+# 由 markdown 重新构建：./.venv/bin/python rag/build_db.py --rebuild
+rag/db/
